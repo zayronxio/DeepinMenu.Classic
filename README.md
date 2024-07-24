@@ -1,4 +1,4 @@
-  <h1 align="center">Plasma Control Hub</h1>
+  <h1 align="center">DeepinMenu Classic</h1>
   <p align="center">Imitation of the classic deepin menu, For kde Plasma 6.1 or higher, created with the start.next menu code, mostly using ditto by adhe as a base</center>
 </p>
 
